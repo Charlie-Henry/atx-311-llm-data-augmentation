@@ -1,0 +1,62 @@
+service_request_id,status,status_notes,service_name,service_code,description,requested_datetime,updated_datetime,address,lat,long,token
+24-00245778,closed,Issue Has Been Resolved - Close SR.,Road Markings/Striping - Maintenance,ROADMARK,Broken flex post,2024-07-06T17:22:56Z,2024-08-28T12:22:30Z,"3701 Todd Ln, Austin",30.214705000000006,-97.73542833333329,6e95e4e7-6b53-4f2c-8609-ab1d00821a60
+24-00300149,closed,Completed - Closed. Resolved by Company.,Shared Micromobility,DOCKMOBI,Scooter down ,2024-08-16T16:35:32Z,2024-08-16T17:51:21Z,"101 E 7th St, Austin",30.268878828055012,-97.74208065122366,b9274007-50f0-42c6-88d2-65f4100d2f34
+24-00366386,closed,No Problem Found - Close SR.,Parking Violation Enforcement,PARKINGV,Parked in no parking zone,2024-10-07T12:52:58Z,2024-10-07T15:39:26Z,"2713 Hemphill Park, Austin",30.293077079266904,-97.74085954384518,c3efe746-f7cc-4760-a60b-0c5753722f32
+24-00366363,closed,No Problem Found - Close SR.,Parking Violation Enforcement,PARKINGV,Car parked directly in front of fire hydrant ,2024-10-07T12:30:40Z,2024-10-07T15:39:04Z,"9001 Postvine Dr, Austin",30.275794041562047,-97.63240780681372,8045332c-9ef1-460b-b707-0781b24da197
+24-00228674,closed,Study Requested - Close SR. Concern forwarded to Parking Enterprise for further evaluation.,Traffic Sign New,SIGNNEWT,#453 need pay to park sign to be able to enforce as it is an incomplete zone,2024-06-24T15:51:06Z,2024-08-29T21:24:05Z,"600 Park Pl, Austin",30.289887615522197,-97.73422244936228,8f667d03-38eb-4db5-bb8a-bb88264e6728
+24-00243115,closed,Completed - Closed. Resolved by company.,Shared Micromobility,DOCKMOBI,Scooter blocking,2024-07-04T23:39:49Z,2024-07-05T15:34:42Z,"301 S Congress Ave, Austin",30.25894192106534,-97.7461327598017,664b448a-1e86-471c-af68-59546c33c1eb
+24-00209378,closed,Submitted outside operating hours - Close SR. We will check the area.,Parking Violation Enforcement,PARKINGV,Parked in city staff parking ,2024-06-09T18:53:25Z,2024-06-10T13:11:17Z,"2105 Andrew Zilker Rd, Austin",30.26541003465758,-97.76911161839962,8426515f-1c28-46fe-8b17-674ff861e82c
+24-00180350,closed,,Shared Micromobility,DOCKMOBI,Scooter down ,2024-05-20T15:18:00Z,2024-05-20T17:39:06Z,"504 W 27th St, Austin",30.291932373439717,-97.74230629205704,1816d6cd-8858-4c86-822e-954e738724cb
+24-00266901,closed,Referred to Other Agency - Close SR. Refer to APD vehicle abatement.,Parking Violation Enforcement,PARKINGV,Inoperable truck,2024-07-23T13:48:20Z,2024-07-23T14:10:46Z,"2418 Wagon Crossing Path, Austin",30.189948614411797,-97.75462131947279,6a44cc6d-d007-4078-94db-a90ebc600105
+24-00365756,closed,Referred to Other Agency - Close SR. Refer to APD vehicle abatement.,Parking Violation Enforcement,PARKINGV,Car parked 3 feet off curb with expired tags. In front of 1620 Anise Drive.  It has been abandoned for 4 weeks.,2024-10-06T17:14:51Z,2024-10-07T13:21:53Z,"1620 Anise Dr, Austin",30.223603968660395,-97.69451493129691,90f7b8b5-5604-46e7-9656-dc92ad435c21
+24-00278236,closed,No Problem Found - Close SR. Duplicate.,Parking Violation Enforcement,PARKINGV,car parked in fire zone,2024-07-31T16:55:39Z,2024-07-31T17:19:13Z,"8601 S Congress Ave, Austin",30.171815076947826,-97.78482060035422,5266dc67-7481-43e6-92ff-cc2ed92fdc0b
+24-00254163,closed,Cite Vehicle(s)-Close SR. 1 citation issued.,Parking Violation Enforcement,PARKINGV,Car with no handicap placard has been parked in handicap spot since last night. 13505 Burnet Road. Lenox Grand Apartments. Outside Building 5.,2024-07-12T20:48:09Z,2024-07-12T22:18:43Z,"13553 Anarosa Loop, Austin",30.431061354178794,-97.69555408449753,5620cbea-4e45-4e3e-851e-f683eec51905
+24-00200094,closed,,Shared Micromobility,DOCKMOBI,"145, two lime scooters down not blocking at 9:10 a.m., impound at 11:10 a.m.",2024-06-03T14:11:22Z,2024-06-03T16:18:04Z,"611 W 31st Half St, Austin",30.298316213745977,-97.74200923740864,85f3c9b0-014f-4403-ad6f-8ff1a54379e8
+24-00221366,closed,,Shared Micromobility,DOCKMOBI,Bird scooter in WestBouldin Creek,2024-06-18T14:07:52Z,2024-06-18T15:59:45Z,"1108 W Mary St, Austin",30.248945540871468,-97.76402989754419,506e7f75-0b1d-409e-80e2-834913a671eb
+24-00291588,closed,Issue Has Been Resolved - Close SR.,School Zone Sign Maintenance,SIGNSCHO,Prune foliage obstructing 20 mph school zone mileage sigm eastbound Davis Lane before Mills Elementary School,2024-08-10T15:45:25Z,2024-08-12T13:37:14Z,"6329 Clarion Dr, Austin",30.212435997610683,-97.87966422736645,e1949828-1f2f-43d5-940a-2ccf8ed12f44
+24-00204237,closed,No Problem Found - Close SR.,Parking Violation Enforcement,PARKINGV,Parked in bike lane,2024-06-05T21:09:48Z,2024-06-06T01:34:41Z,"4912 Duval St, Austin",30.31307024127446,-97.72074174203,dcb56309-e9b6-447e-828f-14f287183261
+24-00364354,closed,Cite Vehicle(s)-Close SR. 1 citation issued for left wheel to curb.,Parking Violation Enforcement,PARKINGV,Two cars parked with left wheels to curb.,2024-10-04T23:45:52Z,2024-10-05T17:27:27Z,"3604 Brownwood Dr, Austin",30.36630528222137,-97.74735253304243,3b82d922-1830-4d37-826e-be3586e34f50
+24-00269050,closed,Issue Has Been Resolved - Close SR.,Parking Sign Maintenance,SIGNPARK,"RIGHT PART OF ARROW STICKER ON NO PARKING/TOW AWAY SIGN IS MISSING AND NOT INTENTIONALLY COVERED, I DON'T THINK. ",2024-07-24T19:40:00Z,2024-07-25T15:17:15Z,"1304 Rio Grande St, Austin",30.277446474401998,-97.74666991084814,cf3f75c7-0ac5-4c4d-9048-fe14453b442b
+24-00312166,closed,"Referred to 311 For Further Review - Close SR. Class: SR
+Created By: 
+Log Type: CSR_FEEDBACK
+
+Summary: Routed to 3-1-1 for reassignment
+
+Details
+Thank you for your request. Street and Bridge Operations forwarded this request back to 3-1-1 for
+the appropriate department assignment
+
+Route to Parks and Recreation based on MOWS as well as to Code Enforcement if the concern is on the opposite of the address provided.",Mowing Medians,PWDMOWME,Grass in median needs mowing,2024-08-25T13:41:01Z,2024-08-26T04:40:08Z,"2803 Northland Dr, Austin",30.33472702414986,-97.74916912874069,c50aed59-0261-450c-8a65-c3be3e0ccff1
+24-00337958,closed,Issue Has Been Resolved - Close SR.,Traffic Sign Maintenance,SIGNTRA1,Street sign at 610 Guadalupe St. Please remove from my property.,2024-09-13T22:09:05Z,2024-09-16T14:28:33Z,"401 W 7th St, Austin",30.269926846197706,-97.74611063464373,cec6fd23-f037-498c-84dd-f862d53c2113
+24-00217421,closed,Cite Vehicle(s)-Close SR. cited one hr ago unable to cite again at this time.,Parking Violation Enforcement,PARKINGV,Parking violation. Travel trailer park on street residential permit zone.no permit,2024-06-15T01:18:28Z,2024-06-15T02:54:09Z,"905 E 2nd St, Austin",30.261678461845516,-97.73475486785173,f9bb3472-4198-4a65-a762-6d717bc7f3ca
+24-00335694,closed,Cite Vehicle(s)-Close SR. The vehicle has been cited and towed.,Parking Violation Enforcement,PARKINGV,District Court Personnel Only Monday-Friday 7AM-6PM,2024-09-12T12:43:44Z,2024-09-12T14:47:39Z,"404 Nueces St, Austin",30.267996402083295,-97.74907403063457,58235f21-2b71-441f-8a7e-c5570ffd68f4
+24-00361720,closed,No Problem Found - Close SR.,Parking Violation Enforcement,PARKINGV,Multiple cars in no parking area on e cesar Chavez ,2024-10-03T04:01:56Z,2024-10-03T14:00:06Z,"2001 E Cesar Chavez St, Austin",30.25658625921761,-97.72325413516728,2bcde86e-10b7-40d8-8802-b768db8b9d3a
+24-00357821,closed,Cite Vehicle(s)-Close SR.,Parking Violation Enforcement,PARKINGV,Truck blocking access to sidewalk on Hemphill Parkway side of property,2024-09-30T12:58:07Z,2024-09-30T14:25:34Z,"2705 Hemphill Park, Austin",30.292313005067296,-97.74099807553543,982f69c8-487c-4b70-87dc-ca4a23281279
+24-00283860,closed,"Referred to 311 For Further Review - Close SR. Class: SR
+Created By: PIZANOA
+Log Type: CSR_FEEDBACK
+
+Summary: Routed to 3-1-1 for reassignment
+
+Details
+Thank you for your request. Street and Bridge Operations forwarded this request back to 3-1-1 for
+the appropriate department assignment.
+
+Please send to Austin Code.",Mowing Medians,PWDMOWME,Either maintain Walsh Tarlton by cutting weeds or fine every owner down this street!,2024-08-05T01:52:41Z,2024-08-05T12:30:48Z,"3300 Texas Star Ln, Austin",30.266087573862873,-97.80649180542476,cac9077e-cd60-442f-85dc-882ef446035a
+24-00247897,closed,No Problem Found - Close SR. Class: WORKORDERCreated By: Log Type: NO_PROBLEMSummary: No problem found.DetailsCompleted by the in house forestry crew.,Sidewalk Repair,SBSIDERE,"-- auto translated (en-us;el-GR) --
+Sidewalk is obstructed by tree, bushes, and tire from homeowner’s property
+-- original (en-us;el-GR) --
+Sidewalk is obstructed by tree, bushes, and tire from homeowner’s property",2024-07-08T17:33:46Z,2024-10-14T17:32:05Z,"8005 Decker Ln, Austin",30.30607789358939,-97.61817226885299,09b68b98-8148-4cf1-8314-393a7a545b35
+24-00197474,closed,Cite Vehicle(s)-Close SR.,Parking Violation Enforcement,PARKINGV,Illegally parked vehicle ,2024-05-31T23:06:26Z,2024-06-01T00:49:22Z,"1206 Harvey St, Austin",30.27673609999999,-97.7047014,5b5ee575-1de6-4bab-8e24-e17f2a82a59b
+24-00261052,closed,Cite Vehicle(s)-Close SR. All 3 vehicles have received a citation.,Parking Violation Enforcement,PARKINGV,Three cars parked backward and without RPP,2024-07-18T14:15:27Z,2024-07-18T16:20:50Z,"1203 Taylor St, Austin",30.256491666666644,-97.7338716666667,f42a4aa2-e6c2-4027-8115-ab67b2b6694f
+24-00263700,closed,"Referred to 311 For Further Review - Close SR. Class: SR
+Created By: GARCIALIS
+Log Type: CSR_FEEDBACK
+
+Summary: Routed to 3-1-1 for  reassignment.
+
+Details
+Thank you for your request. Street and Bridge Operations forwarded this request back to 3-1-1 for
+the appropriate department assignment.",Debris in Street,SBDEBROW,Wire hanging in street ,2024-07-20T14:24:30Z,2024-07-22T02:06:41Z,"103 Meadow Lea Dr, Austin",30.186583055255756,-97.78120636197578,bb857eeb-5ad7-41d6-87fc-504ffd3d801c
+24-00316465,closed,Cite Vehicle(s)-Close SR. The RV has been issued a 72 hour warning.,Parking Violation Enforcement,PARKINGV,Parked RV blocking sidewalk crossing,2024-08-28T14:21:31Z,2024-08-28T15:40:04Z,"6900 Branrust Dr, Austin",30.17205848747611,-97.72933043539524,8b7357a7-ed8e-4c28-9a6e-c5dc54056a95

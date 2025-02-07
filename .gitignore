@@ -4,3 +4,4 @@
 *.pyc
 **/.pbi/localSettings.json
 **/.pbi/cache.abf
+/data/images/csr_images
