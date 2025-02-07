@@ -1,0 +1,6 @@
+
+/.idea
+.env
+*.pyc
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
